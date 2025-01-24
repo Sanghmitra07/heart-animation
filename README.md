@@ -1,2 +1,2 @@
 # heart-animation
-![heart-animation](animation.png)
+<!--![heart-animation](animation.png)-->
